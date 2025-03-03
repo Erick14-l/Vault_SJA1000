@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "650b8e4f3feb6b1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "89a814538c50cbfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f3f6b669f657467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/社区插件- Obsidian帮助 --- Community plugins - Obsidian Help.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "社区插件- Obsidian帮助 --- Community plugins - Obsidian Help"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "793d9dc318a0d351",
+    "type": "split",
+    "children": [
+      {
+        "id": "70b8961ab8f6bc7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d87b62a072b0b924",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "374e95adaedb24a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "414831516781bf4a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f6590304f787eba5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8da50ae6f28842a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2d75a45d7823e2e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clippings/社区插件- Obsidian帮助 --- Community plugins - Obsidian Help.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "社区插件- Obsidian帮助 --- Community plugins - Obsidian Help 的反向链接列表"
+            }
+          },
+          {
+            "id": "f106d825ab421a0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Clippings/社区插件- Obsidian帮助 --- Community plugins - Obsidian Help.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "社区插件- Obsidian帮助 --- Community plugins - Obsidian Help 的出链列表"
+            }
+          },
+          {
+            "id": "34a254ce98fa101e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b6909df2f512226c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Clippings/社区插件- Obsidian帮助 --- Community plugins - Obsidian Help.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "社区插件- Obsidian帮助 --- Community plugins - Obsidian Help 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 565.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "3f3f6b669f657467",
+  "lastOpenFiles": [
+    "sheet/DMS6040_DCB_V2_0/提取自DMS6040_DCB_V2_0#2.png",
+    "sheet/DMS6040_DCB_V2_0/提取自DMS6040_DCB_V2_0#1.png",
+    "sheet/DMS6040_DCB_V2_0/提取自DMS6040_DCB_V2_0#9.png",
+    "sheet/DMS6040_DCB_V2_0/提取自DMS6040_DCB_V2_0#7.png",
+    "sheet/DMS6040_DCB_V2_0/提取自DMS6040_DCB_V2_0#4.png",
+    "Clippings/社区插件- Obsidian帮助 --- Community plugins - Obsidian Help.md",
+    "2025-03-03.md",
+    "sheet/提取自DMS6040_DCB_V2_0.png",
+    "sheet/DMS6040_DCB_V2_0/提取自DMS6040_DCB_V2_0#8.png",
+    "sheet/DMS6040_DCB_V2_0/提取自DMS6040_DCB_V2_0#6.png",
+    "sheet/DMS6040_DCB_V2_0/提取自DMS6040_DCB_V2_0#5.png",
+    "sheet/DMS6040_DCB_V2_0/提取自DMS6040_DCB_V2_0#3.png",
+    "sheet/DMS6040_DCB_V2_0/提取自DMS6040_DCB_V2_0#11.png",
+    "sheet/DMS6040_DCB_V2_0",
+    "sheet/提取自DMS6040_DCB_V2_0(1)",
+    "sheet/提取自DMS6040_DCB_V2_0",
+    "sheet/DMS6040_DCB_V2_0.pdf",
+    "sheet/DMS6040_DCB_V2_0.pdf - 快捷方式.lnk",
+    "sheet",
+    "新建文件夹",
+    "未命名.canvas",
+    "Obsidian Help.md",
+    "创建链接.md",
+    "欢迎.md",
+    "Clippings"
+  ]
+}
